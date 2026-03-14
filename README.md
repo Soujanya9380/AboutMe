@@ -43,7 +43,7 @@ To secure an entry-level Data Analyst role where I can apply my analytical skill
  ### 1️⃣ Skill Insight Analysis (Naukri)
 **Description:** Analyzed skills demand and trends from Naukri job portal to gain insights into in-demand skills across industries and roles. Helps job seekers and analysts understand the market trend.
 
-**Technologies Used:**  Python | SQL | Excel | Power BI 
+**Technologies Used:**  Excel | Power BI 
 
 ### 2️⃣ Hospital OPD Dashboard (Python)
 **Description:** Interactive Python dashboard to analyze hospital OPD patient flow and waiting times. Helps hospitals track patient flow, visualize waiting times, and optimize resources.
