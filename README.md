@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Aspiring Data Analyst skilled in Python, Pandas, NumPy, SQL, Excel, Power BI, Matplotlib, and Seaborn.  
+Aspiring Data Analyst skilled in Python, Pandas, NumPy, SQL, Excel, Power BI,Tableau, Matplotlib, and Seaborn.  
 Passionate about turning data into insights and building real-world projects.
 
 ---
