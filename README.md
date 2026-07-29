@@ -37,21 +37,6 @@ Passionate about turning data into insights and building real-world projects.
 To secure an entry-level Data Analyst role where I can apply my analytical skills, work on real-world data, and grow in the field of data science.
 
 
-## 💼 Projects
-  
- ### 1️⃣ Skill Insight Analysis (Naukri)
-**Description:** Analyzed skills demand and trends from Naukri job portal to gain insights into in-demand skills across industries and roles. Helps job seekers and analysts understand the market trend.
-
-**Technologies Used:**  Excel | Power BI 
-
-### 2️⃣ Hospital OPD Dashboard (Python)
-**Description:** Interactive Python dashboard to analyze hospital OPD patient flow and waiting times. Helps hospitals track patient flow, visualize waiting times, and optimize resources.
-
-**Technologies:**  Python | Pandas | NumPy | Matplotlib | Seaborn 
-
-### 3️⃣ EmergiGo – Intelligent Traffic Signal System
-**Description:** Designed and implemented a smart traffic management system that prioritizes emergency vehicles by dynamically adjusting signal timings. The system reduces emergency response delays and improves overall traffic flow using real-time congestion detection.
-**Technologies:**  Python | IoT Sensors | Image Processing | OpenCV | Embedded Systems
 
 
 
